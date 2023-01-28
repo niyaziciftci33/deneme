@@ -1,0 +1,40 @@
+[
+	{
+		"isim": "Antalya",
+    "açıklama": "Akdenizde bir cennet",
+		"fiyat": "3000",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Sinop",
+    "açıklama": "Karadenizi türk gölü haline getirmek için savaş.",
+		"fiyat": "5000",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Amasra",
+    "açıklama": "Tam bir deniz şehri.",
+		"fiyat": "6000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Balkanlar",
+    "açıklama": "Balkanlarda fetih yapmak Devlet-i Aliyye'ye güç kazandıracak.",
+		"fiyat": "7000",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Gürcistan",
+    "açıklama": "İleride imparatorluk olma yolunda atılacak yeni soydaşlar.",
+		"fiyat": "10000",
+    "kasaid": "5"
+	},
+  {
+		"isim": "İstanbul",
+    "açıklama": "Onlarca padişah denedi ve muvaffak olamadı. Belki o güzel komutan sensindir.",
+		"fiyat": "20000",
+    "kasaid": "6"
+	}
+  
+
+]
